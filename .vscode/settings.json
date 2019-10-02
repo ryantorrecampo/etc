@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "400",
+    "editor.letterSpacing": -1,
+    "terminal.integrated.fontFamily": "SF Mono",
+    "terminal.integrated.letterSpacing": -0.8,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "600",
+    "editor.fontLigatures": true,
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
